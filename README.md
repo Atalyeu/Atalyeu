@@ -1,5 +1,5 @@
 <h1 align="center">Hey</h1>
-<h3 align="center">CyberSecurity & PT, Software Engineer, LLP</h3>
+<h3 align="center">CyberSecurity & PT, Software Engineer/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atalyeu&label=Profile%20views&color=0e75b6&style=flat" alt="atalyeu" /> </p>
 
