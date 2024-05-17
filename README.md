@@ -6,5 +6,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,ts,docker,c,linux,express" />
+    <img src="https://skillicons.dev/icons?i=c,ts,docker,linux,express" />
   </a>
