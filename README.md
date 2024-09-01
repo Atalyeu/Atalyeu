@@ -8,4 +8,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,py,docker,linux,express,nestjs" />
   </a>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atalyeu)](https://github.com/anuraghazra/github-readme-stats)
+[![Ataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atalyeu)](https://github.com/anuraghazra/github-readme-stats)
