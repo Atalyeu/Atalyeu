@@ -7,5 +7,4 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,py,docker,linux,express,nestjs" />
-    ![Ataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atalyeu&show_icons=true&theme=transparent)
   </a>
