@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Ataly</h1>
 <h3 align="center">Malware, Rev</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atalyeu&show_icons=true&theme=dark&locale=en&layout=compact" alt="atalyeu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atalyeu&show_icons=true&theme=dark&locale=en" alt="atalyeu" /></p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atalyeu&show_icons=true&theme=dark&locale=en&layout=compact" alt="atalyeu" /></p>
 
 
 
