@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atalyeu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="atalyeu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atalyeu&show_icons=true&theme=dracula&locale=en" alt="atalyeu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atalyeu&show_icons=true&theme=tokyonight&locale=en" alt="atalyeu" /></p>
